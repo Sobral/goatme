@@ -74,7 +74,7 @@ export default {
 .vuecal__event.unavailable {
   background-color: #e0d887;
   border: 1px solid #f8f4c4;
-  color: #fff;
+  color: #878148;
 }
 
 .vuecal__event.available {
