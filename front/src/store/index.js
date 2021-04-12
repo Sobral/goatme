@@ -1,11 +1,9 @@
 import Vue  from 'vue'
 import Vuex from 'vuex'
+import {getEvents} from '../service/http'
 
 Vue.use(Vuex);
 
-function getEvents() {
-  return [] 
-}
 
 export default new Vuex.Store({
 
